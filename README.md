@@ -7,4 +7,4 @@ Please Note: If you are a current or future student of the PGDDS program offered
 ## Project Description:
 
 #### [1] Spark Fund Case Study : 
-Spark Funds, an asset management company wants to make investments in a few companies. Hence, to understand the global trends in investments, real investment data is collected fromcrunchbase.com. The objective was to perform exploratory analysis to find sectors and countries in which the company should invest based on given parameters.
+Spark Funds, an asset management company wants to make investments in a few companies. Hence, to understand the global trends in investments, real investment data is collected from crunchbase.com. The objective was to perform exploratory analysis to find sectors and countries in which the company should invest based on given parameters.
