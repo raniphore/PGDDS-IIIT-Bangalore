@@ -6,4 +6,4 @@ Please Note: If you are a current or future student of the PGDDS program offered
 
 ## Project Description:
 
-1. Find sectors in which your company should invest based on given parameters.
+[1] Spark Fund Case Study : Spark Funds, anasset management company wants to make investments in a few companies. Hence, to understand the global trends in investments, real investment data is collected fromcrunchbase.com. The objective was to perform exploratory analysis to find sectors and countries in which the company should invest based on given parameters.
