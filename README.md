@@ -4,6 +4,6 @@ This repository includes the projects that I am working on during my PG Diploma 
 
 Please Note: If you are a current or future student of the PGDDS program offered by IIIT-Bangalore. I encourage you to ask questions and ask for clarifications. However, I strongly discourage you from integrating sections of the code for your submissions. Every submission is evaluated by a plagiarism checker and they have a very strict policy for plagiarism.
 
-# Project Description:
+## Project Description:
 
 1. Find sectors in which your company should invest based on given parameters.
