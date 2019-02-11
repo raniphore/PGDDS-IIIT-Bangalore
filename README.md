@@ -14,3 +14,6 @@ Uber Technologies Inc. face a loss of potential revenue due to supply shortages 
 
 #### [3] Credit Loss Analysis for Loan Application :
 Performed exploratory data analysis using Python to detect the driving factors leading to loan default or credit loss thereby aiding in portfolio and risk assessment.
+
+#### [4] Predict Automobile Pricing :
+Developed a regression model to predict the price of cars in the American automobile market with 90.6% accuracy by analyzing physical and intangible attributes of the vehicle.
