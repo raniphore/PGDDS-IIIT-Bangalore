@@ -17,3 +17,6 @@ Performed exploratory data analysis using Python to detect the driving factors l
 
 #### [4] Predict Automobile Pricing :
 Developed a regression model to predict the price of cars in the American automobile market with 90.6% accuracy by analyzing physical and intangible attributes of the vehicle.
+
+#### [5] Help NGO Case Study:
+Peformed dimensiolaity reduction using PCA and segmented the countries on socio-economic and health factors using Clustering to determine the overall development of a country and accordingly suggest the countries that needs immediate help from the NGO.
