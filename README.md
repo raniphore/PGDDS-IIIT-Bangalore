@@ -22,3 +22,4 @@ Developed a regression model to predict the price of cars in the American automo
 Performed dimensionality reduction using PCA and categorise the countries on socio-economic and health factors using Clustering to determine the overall development of a country and accordingly suggest the countries that needs immediate help from the NGO.
 
 #### [6] Lead Score Case Study:
+Developed a classification model for an online Education Company to predict the customers that are most likely to convert into paying customers with an accuracy of 81%.
