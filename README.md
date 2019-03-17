@@ -20,3 +20,5 @@ Developed a regression model to predict the price of cars in the American automo
 
 #### [5] Help NGO Case Study:
 Performed dimensionality reduction using PCA and categorise the countries on socio-economic and health factors using Clustering to determine the overall development of a country and accordingly suggest the countries that needs immediate help from the NGO.
+
+#### [6] Lead Score Case Study:
