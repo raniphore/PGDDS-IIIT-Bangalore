@@ -23,3 +23,6 @@ Performed dimensionality reduction using PCA and categorise the countries on soc
 
 #### [6] Lead Score Case Study:
 Developed a classification model for an online Education Company to predict the customers that are most likely to convert into paying customers with an accuracy of 81%.
+
+#### [7] MNIST Digit Recognition:
+Developed classification model using SVM and Random Forest to identify digits from a dataset of tens of thousands of handwritten images.
