@@ -19,7 +19,7 @@ Performed exploratory data analysis using Python to detect the driving factors l
 Developed a regression model to predict the price of cars in the American automobile market with 90.6% accuracy by analyzing physical and intangible attributes of the vehicle.
 
 #### [5] Help NGO Case Study:
-Performed dimensionality reduction using PCA and categorise the countries on socio-economic and health factors using Clustering to determine the overall development of a country and accordingly suggest the countries that needs immediate help from the NGO.
+Performed dimensionality reduction using PCA and categorised the countries on socio-economic and health factors using Clustering to determine the overall development of a country and accordingly suggest the countries that needs immediate help from the NGO.
 
 #### [6] Lead Score Case Study:
 Developed a classification model for an online Education Company to predict the customers that are most likely to convert into paying customers with an accuracy of 81%.
@@ -27,3 +27,6 @@ Developed a classification model for an online Education Company to predict the 
 #### [7] MNIST Digit Recognition:
 Developed classification model using SVM and Random Forest to identify digits from a dataset of tens of thousands of handwritten images.
 Kaggle URL : https://www.kaggle.com/c/digit-recognizer
+
+#### [8] Telecom Churn Case Study:
+Predicted telecom customers likely to churn with 85% accuracy by analyzing 7000+ customer data. Identified best model out of KNN, Logistic, SVM and Random Forest.
