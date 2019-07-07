@@ -29,4 +29,4 @@ Developed classification model using SVM and Random Forest to identify digits fr
 Kaggle URL : https://www.kaggle.com/c/digit-recognizer
 
 #### [8] Telecom Churn Case Study:
-Predicted telecom customers likely to churn with 85% accuracy by analyzing 7000+ customer data. Identified best model out of KNN, Logistic, SVM and Random Forest.
+Predicted telecom customers likely to churn with 85% accuracy by analyzing 7000+ customer data. Identified best model out of Logistic, Decision Tree and Random Forest.
