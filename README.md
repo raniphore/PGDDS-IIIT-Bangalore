@@ -30,3 +30,6 @@ Kaggle URL : https://www.kaggle.com/c/digit-recognizer
 
 #### [8] Telecom Churn Case Study:
 Predicted telecom customers likely to churn with 85% accuracy by analyzing 7000+ customer data. Identified best model out of Logistic, Decision Tree and Random Forest.
+
+#### [9] BFSI Capstone Project:
+Performed risk analytics on the customers of a bank to identify the probable defaulters and also developed application scorecard to identify any defaulters among the new credit applications.
